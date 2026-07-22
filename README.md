@@ -19,3 +19,6 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Multi-Router Static & Dynamic Routing Configuration](./Mini-Labs/Routing-Protocols-Mini-Lab.md)**
     * **Tools:** Cisco Packet Tracer
     * **Focus:** Comparing Static routing architectures against dynamic protocols (RIPv2 and OSPF), analyzing IOS command-line outputs, routing table predictions, wildcard mask logic, and Equal-Cost Multi-Path (ECMP) identification.
+* **[ACL Firewall Simulation & Traffic Segmentation](./Mini-Labs/ACL-Firewall-Lab.md)**
+    * **Tools:** Cisco Packet Tracer
+    * **Focus:** Implementing Extended Access Control Lists (ACLs) to enforce network policy, blocking unauthorized traffic from Guest networks to sensitive Admin Servers, and verifying matches via IOS output commands.
