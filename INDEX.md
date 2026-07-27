@@ -34,3 +34,6 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Automated System Information Gathering Script](./Playground/Bash-Scripts/recon.sh(phase-1))**
   * **Tools:** Bash
   * **Focus:** Automating basic system reconnaissance by fetching OS information, currently logged-in users, and system uptime.
+* **[Automated Output Directory & Conditional Validation Script](./Playground/Bash-Scripts/phase-2.sh)**
+  * **Tools:** Bash
+  * **Focus:** Validating execution conditions using if-else logic, dynamically creating output directories, and automatically storing script results.
