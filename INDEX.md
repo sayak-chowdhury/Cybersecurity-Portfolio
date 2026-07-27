@@ -37,3 +37,10 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Automated Output Directory & Conditional Validation Script](./Playground/Bash-Scripts/phase-2.sh)**
   * **Tools:** Bash
   * **Focus:** Validating execution conditions using if-else logic, dynamically creating output directories, and automatically storing script results.
+* **[Conditional Decision Making Script](./Playground/Bash-Scripts/phase-3.sh)**
+  * **Tools:** Bash
+  * **Focus:** Implementing conditional logic and decision-making flow using `if-else` statements.
+
+* **[Automated File Handling Script](./Playground/Bash-Scripts/phase-5.sh)**
+  * **Tools:** Bash
+  * **Focus:** Performing basic file handling operations, file manipulations, and directory management via script.
