@@ -25,3 +25,6 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[ACL Firewall Simulation & Traffic Segmentation](./Playground/Cisco-Packet-Tracer/ACL-Firewall-Lab.md)**
     * **Tools:** Cisco Packet Tracer
     * **Focus:** Implementing Extended Access Control Lists (ACLs) to enforce network policy, blocking unauthorized traffic from Guest networks to sensitive Admin Servers, and verifying matches via IOS output commands.
+* **[Automated System Information Gathering Script](./Playground/Bash-Scripts/recon.sh(phase-1))**
+  * **Tools:** Bash
+  * **Focus:** Automating basic system reconnaissance by fetching OS information, currently logged-in users, and system uptime.
