@@ -31,18 +31,18 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
     * **Focus:** Implementing Extended Access Control Lists (ACLs) to enforce network policy, blocking unauthorized traffic from Guest networks to sensitive Admin Servers, and verifying matches via IOS output commands.
  
 ### 🐚 Bash
-* **[Automated System Information Gathering Script](./Playground/Bash-Scripts/recon.sh(phase-1))**
+* **[Automated System Information Gathering Script(phase-1)](./Playground/Bash-Scripts/recon.sh(phase-1))**
   * **Tools:** Bash
   * **Focus:** Automating basic system reconnaissance by fetching OS information, currently logged-in users, and system uptime.
-* **[Automated Output Directory & Conditional Validation Script](./Playground/Bash-Scripts/phase-2.sh)**
+* **[Automated Output Directory & Conditional Validation Script(phase-2)](./Playground/Bash-Scripts/phase-2.sh)**
   * **Tools:** Bash
   * **Focus:** Validating execution conditions using if-else logic, dynamically creating output directories, and automatically storing script results.
-* **[Conditional Decision Making Script](./Playground/Bash-Scripts/phase-3.sh)**
+* **[Conditional Decision Making Script(phase-3)](./Playground/Bash-Scripts/phase-3.sh)**
   * **Tools:** Bash
   * **Focus:** Implementing conditional logic and decision-making flow using `if-else` statements.
-* **[Loop Iteration & Target Log Processing Script](./Playground/Bash-Scripts/Phase-4)**
+* **[Loop Iteration & Target Log Processing Script(phase-4)](./Playground/Bash-Scripts/Phase-4/phase-4.sh)**
   * **Tools:** Bash
   * **Focus:** Practicing `for` and `while` loop structures to iterate over target files and manage scan logs.
-* **[Automated File Handling Script](./Playground/Bash-Scripts/phase-5.sh)**
+* **[Automated File Handling Script(phase-5)](./Playground/Bash-Scripts/phase-5.sh)**
   * **Tools:** Bash
   * **Focus:** Performing basic file handling operations, file manipulations, and directory management via script.
