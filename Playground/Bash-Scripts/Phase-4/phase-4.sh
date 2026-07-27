@@ -3,7 +3,7 @@
 #=================================================
 #Script Name: phase-4.sh
 #Purpose: Practicing loops (for and while loops)
-#Usage: ./phase-4.sh, ./targets.txt, ./scan_*.log
+#Usage: ./phase-4.sh, targets.txt, scan_*.log
 #=================================================
 
 echo "===================================================="
