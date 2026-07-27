@@ -40,7 +40,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Conditional Decision Making Script](./Playground/Bash-Scripts/phase-3.sh)**
   * **Tools:** Bash
   * **Focus:** Implementing conditional logic and decision-making flow using `if-else` statements.
-
+* **[Loop Iteration & Target Log Processing Script](./Playground/Bash-Scripts/phase-4.sh)**
+  * **Tools:** Bash
+  * **Focus:** Practicing `for` and `while` loop structures to iterate over target files and manage scan logs.
 * **[Automated File Handling Script](./Playground/Bash-Scripts/phase-5.sh)**
   * **Tools:** Bash
   * **Focus:** Performing basic file handling operations, file manipulations, and directory management via script.
