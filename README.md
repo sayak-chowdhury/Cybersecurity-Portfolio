@@ -16,15 +16,21 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 ---
 
 ## 🧪 Playground (Single-Topic Analysis, topic or tool wise)
+
+### 🦈 Wireshark
 * **[DNS Traffic Analysis with Wireshark](./Playground/Wireshark/DNS-Traffic-Analysis.md)**
     * **Tools:** Wireshark
     * **Focus:** Capturing standard UDP traffic, analyzing A and CNAME record resolutions, and documenting the foundational security risks of cleartext protocols.
+
+### 🌐 Cisco Packet Tracer
 * **[Multi-Router Static & Dynamic Routing Configuration](./Playground/Cisco-Packet-Tracer/Routing-Protocols.md)**
     * **Tools:** Cisco Packet Tracer
     * **Focus:** Comparing Static routing architectures against dynamic protocols (RIPv2 and OSPF), analyzing IOS command-line outputs, routing table predictions, wildcard mask logic, and Equal-Cost Multi-Path (ECMP) identification.
 * **[ACL Firewall Simulation & Traffic Segmentation](./Playground/Cisco-Packet-Tracer/ACL-Firewall-Lab.md)**
     * **Tools:** Cisco Packet Tracer
     * **Focus:** Implementing Extended Access Control Lists (ACLs) to enforce network policy, blocking unauthorized traffic from Guest networks to sensitive Admin Servers, and verifying matches via IOS output commands.
+ 
+### 🐚 Bash
 * **[Automated System Information Gathering Script](./Playground/Bash-Scripts/recon.sh(phase-1))**
   * **Tools:** Bash
   * **Focus:** Automating basic system reconnaissance by fetching OS information, currently logged-in users, and system uptime.
