@@ -4,19 +4,6 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 
 ---
 
-## Certificates
-* **[Deloitte Cyber-Security Job-Simulation Certificate](./Certificates/SayakChowdhury_Deloitte_CyberSecurity_Certificate.pdf)**
-
-* **[Effective Communication Certificate](./Certificates/SayakChowdhury_Effective_Communication.pdf)**
-
-* **[Project Management Certificate](./Certificates/SayakChowdhury_Project_Management.pdf)**
-
-* **[Google Prompting Essentials Certificate](./Certificates/SayakChowdhury_GooglePromptingEssentials.pdf)**
-
-* **[Google AI Essentials Certificate](./Certificates/SayakChowdhury_GoogleAIEssentials.pdf)**
-
----
-
 ## Capstone Projects
 * **[Next project](./Capstones/next-project.md)** - *Coming Soon*
     * **Focus:** ......
@@ -62,3 +49,16 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Automated File Handling Script (Phase-5)](./Playground/Bash-Scripts/phase-5.sh)**
   * **Tools:** Bash
   * **Focus:** Performing basic file handling operations, file manipulations, and directory management via script.
+
+---
+
+## Certificates
+* **[Deloitte Cyber-Security Job-Simulation Certificate](./Certificates/SayakChowdhury_Deloitte_CyberSecurity_Certificate.pdf)**
+
+* **[Effective Communication Certificate](./Certificates/SayakChowdhury_Effective_Communication.pdf)**
+
+* **[Project Management Certificate](./Certificates/SayakChowdhury_Project_Management.pdf)**
+
+* **[Google Prompting Essentials Certificate](./Certificates/SayakChowdhury_GooglePromptingEssentials.pdf)**
+
+* **[Google AI Essentials Certificate](./Certificates/SayakChowdhury_GoogleAIEssentials.pdf)**
