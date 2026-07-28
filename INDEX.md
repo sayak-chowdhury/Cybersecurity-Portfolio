@@ -11,7 +11,7 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 
 ## Certificates
 * **[Deloitte Cyber-Security Job-Simulation Certificate](./Certificates/SayakChowdhury_Deloitte_CyberSecurity_Certificate.pdf)
-* **[Effective Communication Certificate](./)
+* **[Effective Communication Certificate](./Certificates/SayakChowdhury_Effective_Communication.pdf)
 * **[Project Management Certificate](./)
 * **[Google Prompting Essentials Certificate](./)
 * **[Google AI Essentials Certificate](./)
