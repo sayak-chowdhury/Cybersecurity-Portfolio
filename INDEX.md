@@ -4,9 +4,13 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 
 ---
 
-## 🏆 Capstone Projects
+## Capstone Projects
 * **[Next project](./Capstones/next-project.md)** - *Coming Soon*
     * **Focus:** ......
+---
+
+## Certificates
+* **
 ---
 
 ## Mini-Projects/Labs
