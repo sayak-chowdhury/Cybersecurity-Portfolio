@@ -29,6 +29,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[ACL Firewall Simulation & Traffic Segmentation](./Playground/Cisco-Packet-Tracer/ACL-Firewall-Lab.md)**
     * **Tools:** Cisco Packet Tracer
     * **Focus:** Implementing Extended Access Control Lists (ACLs) to enforce network policy, blocking unauthorized traffic from Guest networks to sensitive Admin Servers, and verifying matches via IOS output commands.
+* **[DHCP Service Configuration & DORA Process Analysis](./Playground/Cisco-Packet-Tracer/DHCP-Lab-Report.md)**
+  * **Tools:** Cisco Packet Tracer
+  * **Focus:** Configuring GUI and router CLI-based DHCP pools, inspecting PDU layers, and analyzing the full DORA handshake sequence.
  
 ### 🐚 Bash-Scripts
 * **[Automated System Information Gathering Script (Phase-1)](./Playground/Bash-Scripts/recon.sh(phase-1))**
