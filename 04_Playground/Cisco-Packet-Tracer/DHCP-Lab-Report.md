@@ -24,43 +24,45 @@ Captured data in **Figure 5** (PDU details) and **Figure 6** (Simulation Panel) 
 
 ### Using GUI
 * **Figure 1:** Network topology featuring a switch, server, and two PCs in Cisco Packet Tracer.
+
 <img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/8b5eef04-d735-4c43-b8ac-54752f5029e3" />
 
-
 * **Figure 2:** DHCP service configuration settings on Server1.
+
 <img width="1887" height="517" alt="Screenshot 2026-07-28 124839" src="https://github.com/user-attachments/assets/c956eac2-5691-48d3-888b-49a14a2b7d42" />
 
-
 * **Figure 3:** Successful DHCP IP configuration on PC1.
+
 <img width="1896" height="335" alt="Screenshot 2026-07-28 125306" src="https://github.com/user-attachments/assets/e809a52c-2a75-4ba4-b6ed-e317ae4474cb" />
 
-
 * **Figure 4:** Successful DHCP IP configuration on PC2.
+
 <img width="1117" height="307" alt="Screenshot 2026-07-28 125410" src="https://github.com/user-attachments/assets/111abadd-f07d-44a2-9246-25cf0463a2c5" />
 
-
 * **Figure 5:** PDU information window showing the DHCP release packet details.
+
 <img width="590" height="636" alt="Screenshot 2026-07-28 125837" src="https://github.com/user-attachments/assets/1d68aa76-7c1c-49f1-8b04-38dbffef046e" />
 
-
 * **Figure 6:** Simulation panel displaying the captured DHCP and STP events.
+
 <img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/f69f9c4d-2f9a-493d-8b7f-f62095257992" />
 
 
 ### Using Router's CLI
 * **Figure 7:** Updated network topology including a router connected to the switch and PCs.
+
 <img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/7cb7e5a4-9226-4f37-a492-758b9d9c093c" />
 
-
 * **Figure 8:** CLI commands for configuring the router's `GigabitEthernet0/0` interface.
+
 <img width="890" height="220" alt="Screenshot 2026-07-28 131839" src="https://github.com/user-attachments/assets/6942441a-89b8-41ee-99be-f52711c7ae0b" />
 
-
 * **Figure 9:** CLI commands for setting up the DHCP pool named `LAN_POOL`.
+
 <img width="525" height="128" alt="Screenshot 2026-07-28 133543" src="https://github.com/user-attachments/assets/924f07ed-15a7-42c7-8898-2932d579cf4a" />
 
-
 * **Figure 10:** Output showing the active DHCP bindings and pool status on the router.
+
 <img width="712" height="273" alt="Screenshot 2026-07-28 133851" src="https://github.com/user-attachments/assets/80355613-44e8-4731-8c8d-bdbdf770ce4b" />
 
 
