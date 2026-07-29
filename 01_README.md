@@ -38,6 +38,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[VLAN Configuration & Network Traffic Segmentation](./04_Playground/Cisco-Packet-Tracer/VLAN-Configuration-Lab.md)**
   * **Tools:** Cisco Packet Tracer
   * **Focus:** Configuring VLANs (HR, IT, Guest) and switch access ports, implementing subnet isolation, and verifying traffic segmentation via ICMP testing.
+* **[Attack Simulation & Port Mirroring (SPAN) Analysis](./04_Playground/Cisco-Packet-Tracer/Network-Attack-Traffic-Analysis.md)**
+  * **Tools:** Cisco Packet Tracer
+  * **Focus:** Simulating ICMP and TFTP traffic generation, configuring SPAN port mirroring on switch interfaces, and sniffing mirrored packet headers.
  
 ### 🐚 Bash-Scripts
 * **[Automated System Information Gathering Script (Phase-1)](./04_Playground/Bash-Scripts/recon.sh(phase-1))**
