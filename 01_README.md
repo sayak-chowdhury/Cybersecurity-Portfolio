@@ -32,6 +32,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[DHCP Service Configuration & DORA Process Analysis](./04_Playground/Cisco-Packet-Tracer/DHCP-Lab-Report.md)**
   * **Tools:** Cisco Packet Tracer
   * **Focus:** Configuring GUI and router CLI-based DHCP pools, inspecting PDU layers, and analyzing the full DORA handshake sequence.
+* **[VLAN Configuration & Network Traffic Segmentation](./Playground/Cisco-Packet-Tracer/VLAN-Configuration-Lab.md)**
+  * **Tools:** Cisco Packet Tracer
+  * **Focus:** Configuring VLANs (HR, IT, Guest) and switch access ports, implementing subnet isolation, and verifying traffic segmentation via ICMP testing.
  
 ### 🐚 Bash-Scripts
 * **[Automated System Information Gathering Script (Phase-1)](./04_Playground/Bash-Scripts/recon.sh(phase-1))**
