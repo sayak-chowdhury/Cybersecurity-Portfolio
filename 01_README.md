@@ -21,6 +21,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[DNS Traffic Analysis with Wireshark](./04_Playground/Wireshark/DNS-Traffic-Analysis.md)**
     * **Tools:** Wireshark
     * **Focus:** Capturing standard UDP traffic, analyzing A and CNAME record resolutions, and documenting the foundational security risks of cleartext protocols.
+* **[TCP 3-Way Handshake Analysis with Wireshark](./04_Playground/Wireshark/TCP-Handshake-Analysis.md)**
+  * **Tools:** Wireshark
+  * **Focus:** Capturing web traffic, applying display filters, and inspecting SYN, SYN-ACK, and ACK flag sequences to analyze connection establishment.
 
 ### 🌐 Cisco Packet Tracer
 * **[Multi-Router Static & Dynamic Routing Configuration](./04_Playground/Cisco-Packet-Tracer/Routing-Protocols.md)**
