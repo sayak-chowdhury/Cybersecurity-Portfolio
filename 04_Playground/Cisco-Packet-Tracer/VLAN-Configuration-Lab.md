@@ -1,4 +1,4 @@
-### Objective
+# Objective
 The objective of this project is to configure Virtual Local Area Networks (VLANs) on a Cisco switch to segment network traffic for HR, IT, and Guest PCs. The primary goal is to organize network devices into logical groups and implement security by preventing unauthorized communication between these distinct groups.
 
 
