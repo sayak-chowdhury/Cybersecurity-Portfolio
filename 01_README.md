@@ -10,9 +10,21 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 ---
 
 ## Mini-Projects/Labs
+
+### Linux
 * **[Linux Log Analysis & Backup Procedures](./03_Mini-Labs/Linux/Linux-System-Administration-and-Log-Analysis-Mini-Project.md)**
     * **Tools:** WSL2 Ubuntu, Grep, Tar, SHA-256, Chmod
     * **Focus:** Practical file system hierarchy control, pattern filtration for authentication logs, verifying cryptographic data integrity, and configuring secure storage permissions.
+
+### Networking
+
+ * **[Secure Enterprise Network Architecture & Extended ACL Implementation](./03_Mini-Labs/Networking/Cisco-Packet-Tracer)**
+  * **Tools:** Cisco Packet Tracer
+  * **Focus:** Designing Router-on-a-Stick inter-VLAN routing, enforcing Extended ACLs for departmental isolation, and resolving access policy evaluation order.
+
+### Wireshark
+
+
 ---
 
 ## 🧪 Playground (Single-Topic Analysis, topic or tool wise)
