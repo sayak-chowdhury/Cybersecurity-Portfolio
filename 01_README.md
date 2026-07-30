@@ -74,6 +74,8 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 ---
 
 ## Certificates
+* **[IICT AI-Readiness Certificate](./Certificates/SayakChowdhury-IICT-AI-Readiness-Certificate.pdf)**
+
 * **[Deloitte Cyber-Security Job-Simulation Certificate](./Certificates/SayakChowdhury_Deloitte_CyberSecurity_Certificate.pdf)**
 
 * **[Effective Communication Certificate](./Certificates/SayakChowdhury_Effective_Communication.pdf)**
