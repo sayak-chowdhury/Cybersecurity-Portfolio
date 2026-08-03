@@ -22,7 +22,7 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
    * **Tools:** Cisco Packet Tracer
    * **Focus:** Designing Router-on-a-Stick inter-VLAN routing, enforcing Extended ACLs for departmental isolation, and resolving access policy evaluation order.
 
-* **[Full Lifecycle Web Session & Deep Packet Inspection (TLS 1.3 / TCP / DNS Analysis)](./03_Playground/Networking/Wireshark/Web-Session-Analysis-Report.md)**
+* **[Full Lifecycle Web Session & Deep Packet Inspection (TLS 1.3 / TCP / DNS Analysis)](./03_Mini-Labs/Networking/Wireshark/Web-Session-Analysis-Report.md)**
    * **Tools:** Wireshark
    * **Focus:** Analyzing DNS-over-TCP, TLS 1.3 Middlebox Compatibility, JA3/JA4 fingerprinting, and TCP retransmission mechanics across a complete session lifecycle.
 
