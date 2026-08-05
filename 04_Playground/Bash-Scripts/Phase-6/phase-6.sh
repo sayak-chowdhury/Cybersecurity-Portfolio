@@ -23,7 +23,7 @@ fi
 
 echo "=================================================="
 echo "          TEXT PROCESSING REPORT                  "
-echo "  	Source File: $SCAN_FILE			"
+echo "  	    Source File: $Scan_file					"
 echo "=================================================="
 
 #1.-----Extract Open Ports (grep, awk, cut, sort, uniq, sed)-----
