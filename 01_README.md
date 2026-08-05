@@ -72,6 +72,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Automated File Handling Script (Phase-5)](./04_Playground/Bash-Scripts/phase-5.sh)**
   * **Tools:** Bash
   * **Focus:** Performing basic file handling operations, file manipulations, and directory management via script.
+* **[Pentesting Asset Extraction Script](./04_Playground/Bash-Scripts/Phase-6/phase-6.sh)**
+  * **Tools:** Bash
+  * **Focus:** Extracting pentesting assets and key data points from target scan results using text-processing tools.
 
 ---
 
@@ -80,10 +83,12 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 
 * **[Deloitte Cyber-Security Job-Simulation Certificate](./Certificates/SayakChowdhury_Deloitte_CyberSecurity_Certificate.pdf)**
 
-* **[Effective Communication Certificate](./Certificates/SayakChowdhury_Effective_Communication.pdf)**
-
-* **[Project Management Certificate](./Certificates/SayakChowdhury_Project_Management.pdf)**
-
 * **[Google Prompting Essentials Certificate](./Certificates/SayakChowdhury_GooglePromptingEssentials.pdf)**
 
 * **[Google AI Essentials Certificate](./Certificates/SayakChowdhury_GoogleAIEssentials.pdf)**
+
+* **[LearnTube Cyber-Security Assessment Certificate](./Certificates/SayakChowdhury_LearnTube_CyberSecurity_Assessment_Certificate.pdf)**
+
+* **[Effective Communication Certificate](./Certificates/SayakChowdhury_Effective_Communication.pdf)**
+
+* **[Project Management Certificate](./Certificates/SayakChowdhury_Project_Management.pdf)**
