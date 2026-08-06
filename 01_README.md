@@ -47,14 +47,14 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
     * **Tools:** Cisco Packet Tracer
     * **Focus:** Implementing Extended Access Control Lists (ACLs) to enforce network policy, blocking unauthorized traffic from Guest networks to sensitive Admin Servers, and verifying matches via IOS output commands.
 * **[DHCP Service Configuration & DORA Process Analysis](./04_Playground/Cisco-Packet-Tracer/DHCP-Lab-Report.md)**
-  * **Tools:** Cisco Packet Tracer
-  * **Focus:** Configuring GUI and router CLI-based DHCP pools, inspecting PDU layers, and analyzing the full DORA handshake sequence.
+   * **Tools:** Cisco Packet Tracer
+   * **Focus:** Configuring GUI and router CLI-based DHCP pools, inspecting PDU layers, and analyzing the full DORA handshake sequence.
 * **[VLAN Configuration & Network Traffic Segmentation](./04_Playground/Cisco-Packet-Tracer/VLAN-Configuration-Lab.md)**
-  * **Tools:** Cisco Packet Tracer
-  * **Focus:** Configuring VLANs (HR, IT, Guest) and switch access ports, implementing subnet isolation, and verifying traffic segmentation via ICMP testing.
+   * **Tools:** Cisco Packet Tracer
+   * **Focus:** Configuring VLANs (HR, IT, Guest) and switch access ports, implementing subnet isolation, and verifying traffic segmentation via ICMP testing.
 * **[Attack Simulation & Port Mirroring (SPAN) Analysis](./04_Playground/Cisco-Packet-Tracer/Network-Attack-Traffic-Analysis.md)**
-  * **Tools:** Cisco Packet Tracer
-  * **Focus:** Simulating ICMP and TFTP traffic generation, configuring SPAN port mirroring on switch interfaces, and sniffing mirrored packet headers.
+   * **Tools:** Cisco Packet Tracer
+   * **Focus:** Simulating ICMP and TFTP traffic generation, configuring SPAN port mirroring on switch interfaces, and sniffing mirrored packet headers.
  
 ### 🐚 Bash-Scripts
 * **[Automated System Information Gathering Script (Phase-1)](./04_Playground/Bash-Scripts/recon.sh(phase-1))**
@@ -75,6 +75,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Pentesting Asset Extraction Script](./04_Playground/Bash-Scripts/Phase-6/phase-6.sh)**
   * **Tools:** Bash
   * **Focus:** Extracting pentesting assets and key data points from target scan results using text-processing tools.
+* **[Reusable Bash Functions Script](./04_Playground/Bash-Scripts/phase-7.sh)**
+  * **Tools:** Bash
+  * **Focus:** Defining and executing modular, reusable functions within shell scripts to structure code effectively.
 
 ---
 
