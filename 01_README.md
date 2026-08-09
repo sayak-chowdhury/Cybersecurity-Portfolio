@@ -78,6 +78,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Reusable Bash Functions Script](./04_Playground/Bash-Scripts/phase-7.sh)**
   * **Tools:** Bash
   * **Focus:** Defining and executing modular, reusable functions within shell scripts to structure code effectively.
+* **[CLI Flag Parsing & Argument Handling Script](./04_Playground/Bash-Scripts/phase-8.sh)**
+  * **Tools:** Bash
+  * **Focus:** Parsing command-line flags and positional arguments using the native `getopts` built-in tool.
 
 ---
 
