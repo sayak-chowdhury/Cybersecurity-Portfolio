@@ -81,6 +81,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[CLI Flag Parsing & Argument Handling Script](./04_Playground/Bash-Scripts/phase-8.sh)**
   * **Tools:** Bash
   * **Focus:** Parsing command-line flags and positional arguments using the native `getopts` built-in tool.
+* **[Networking Automation Script](./04_Playground/Bash-Scripts/phase-9.sh)**
+  * **Tools:** Bash
+  * **Focus:** Automating network reconnaissance and connectivity tasks against target domains or IP addresses.
 
 ---
 
