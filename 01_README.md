@@ -84,6 +84,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Networking Automation Script](./04_Playground/Bash-Scripts/phase-9.sh)**
   * **Tools:** Bash
   * **Focus:** Automating network reconnaissance and connectivity tasks against target domains or IP addresses.
+* **[Automated Web Enumeration Script](./04_Playground/Bash-Scripts/phase-10.sh)**
+  * **Tools:** Bash
+  * **Focus:** Automating web-based reconnaissance, target surface discovery, and endpoint enumeration against domains or URLs.
 
 ---
 
