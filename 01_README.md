@@ -87,6 +87,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Automated Web Enumeration Script](./04_Playground/Bash-Scripts/phase-10.sh)**
   * **Tools:** Bash
   * **Focus:** Automating web-based reconnaissance, target surface discovery, and endpoint enumeration against domains or URLs.
+* **[Automated Backup Task Script](./04_Playground/Bash-Scripts/Phase-11)**
+  * **Tools:** Bash, crontab
+  * **Focus:** Automating routine data backup operations, directory archiving, and backup storage management.
 
 ---
 
