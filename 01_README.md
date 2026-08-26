@@ -16,7 +16,7 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
     * **Tools:** WSL2 Ubuntu, Grep, Tar, SHA-256, Chmod
     * **Focus:** Practical file system hierarchy control, pattern filtration for authentication logs, verifying cryptographic data integrity, and configuring secure storage permissions.
 ### Bash-Scripting
-* **[Major Project 1: Automated Recon Framework](./03_Mini-Labs/Bash-Scripting/automated_recon.sh)**
+* **[Mini Project 1: Automated Recon Framework](./03_Mini-Labs/Bash-Scripting/automated_recon.sh)**
   * **Tools:** Bash, Dig, Curl, Ping
   * **Focus:** Interactive shell tool for multi-vector target discovery, structured reporting, and automated archive generation.
 
