@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ==========================================
-# Major Project 1: Automated Recon Framework
+# Mini Project 1: Automated Recon Framework
 # Script Name: automated_recon.sh
 # Usage: ./automated_recon.sh
 # ==========================================
