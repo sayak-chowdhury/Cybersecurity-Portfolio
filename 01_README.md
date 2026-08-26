@@ -15,13 +15,16 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Linux Log Analysis & Backup Procedures](./03_Mini-Labs/Linux/Linux-System-Administration-and-Log-Analysis-Mini-Project.md)**
     * **Tools:** WSL2 Ubuntu, Grep, Tar, SHA-256, Chmod
     * **Focus:** Practical file system hierarchy control, pattern filtration for authentication logs, verifying cryptographic data integrity, and configuring secure storage permissions.
+### Bash-Scripting
+* **[Major Project 1: Automated Recon Framework](./03_Mini-Labs/Bash-Scripting/automated_recon.sh)**
+  * **Tools:** Bash, Dig, Curl, Ping
+  * **Focus:** Interactive shell tool for multi-vector target discovery, structured reporting, and automated archive generation.
 
 ### Networking
 
  * **[Secure Enterprise Network Architecture & Extended ACL Implementation](./03_Mini-Labs/Networking/Cisco-Packet-Tracer)**
    * **Tools:** Cisco Packet Tracer
    * **Focus:** Designing Router-on-a-Stick inter-VLAN routing, enforcing Extended ACLs for departmental isolation, and resolving access policy evaluation order.
-
 * **[Full Lifecycle Web Session & Deep Packet Inspection (TLS 1.3 / TCP / DNS Analysis)](./03_Mini-Labs/Networking/Wireshark/Web-Session-Analysis-Report.md)**
    * **Tools:** Wireshark
    * **Focus:** Analyzing DNS-over-TCP, TLS 1.3 Middlebox Compatibility, JA3/JA4 fingerprinting, and TCP retransmission mechanics across a complete session lifecycle.
