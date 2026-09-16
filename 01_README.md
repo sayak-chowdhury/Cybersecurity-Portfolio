@@ -15,13 +15,13 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Linux Log Analysis & Backup Procedures](./03_Mini-Labs/Linux/Linux-System-Administration-and-Log-Analysis-Mini-Project.md)**
     * **Tools:** WSL2 Ubuntu, Grep, Tar, SHA-256, Chmod
     * **Focus:** Practical file system hierarchy control, pattern filtration for authentication logs, verifying cryptographic data integrity, and configuring secure storage permissions.
+
 ### Bash-Scripting
 * **[Mini Project 1: Automated Recon Framework](./03_Mini-Labs/Bash-Scripting/automated_recon.sh)**
   * **Tools:** Bash, Dig, Curl, Ping
   * **Focus:** Interactive shell tool for multi-vector target discovery, structured reporting, and automated archive generation.
 
 ### Networking
-
  * **[Secure Enterprise Network Architecture & Extended ACL Implementation](./03_Mini-Labs/Networking/Cisco-Packet-Tracer)**
    * **Tools:** Cisco Packet Tracer
    * **Focus:** Designing Router-on-a-Stick inter-VLAN routing, enforcing Extended ACLs for departmental isolation, and resolving access policy evaluation order.
@@ -93,6 +93,11 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Automated Backup Task Script](./04_Playground/Bash-Scripts/Phase-11)**
   * **Tools:** Bash, crontab
   * **Focus:** Automating routine data backup operations, directory archiving, and backup storage management.
+
+### 🪟 Windows CMD
+* **[Windows CMD Reconnaissance & Environment Inspection](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-1.md)**
+  * **Tools:** Windows CMD
+  * **Focus:** Gathering local OS information, inspecting user privileges and environment variables, and managing directory structures via Windows CLI.
 
 ---
 
