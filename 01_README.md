@@ -98,6 +98,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Windows CMD Reconnaissance & Environment Inspection](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-1.md)**
   * **Tools:** Windows CMD
   * **Focus:** Gathering local OS information, inspecting user privileges and environment variables, and managing directory structures via Windows CLI.
+* **[Windows CLI File & Directory Management Operations](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-2.md)**
+  * **Tools:** Windows CMD
+  * **Focus:** Practicing file creation, redirection, movement, recursive searching with bare format switches, and directory backup via `xcopy`.
 
 ---
 
