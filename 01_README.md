@@ -101,6 +101,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Windows CLI File & Directory Management Operations](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-2.md)**
   * **Tools:** Windows CMD
   * **Focus:** Practicing file creation, redirection, movement, recursive searching with bare format switches, and directory backup via `xcopy`.
+* **[Local System Reconnaissance & Privilege Enumeration](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-3.md)**
+  * **Tools:** Windows CMD
+  * **Focus:** Inspecting active user security identifiers (SIDs), enumerating local accounts and administrative group memberships, and auditing system environment variables.
 
 ---
 
