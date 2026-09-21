@@ -104,6 +104,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Local System Reconnaissance & Privilege Enumeration](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-3.md)**
   * **Tools:** Windows CMD
   * **Focus:** Inspecting active user security identifiers (SIDs), enumerating local accounts and administrative group memberships, and auditing system environment variables.
+* **[Windows Local Process Enumeration & Service Mapping](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-4.md)**
+  * **Tools:** Windows CMD
+  * **Focus:** Inspecting active processes and user contexts (`tasklist /v`), mapping core binaries to Windows services (`/svc`), and filtering processes using `findstr` and PID criteria (`/fi`).
 
 ---
 
