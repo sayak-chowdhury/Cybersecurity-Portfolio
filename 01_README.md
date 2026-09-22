@@ -107,6 +107,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Windows Local Process Enumeration & Service Mapping](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-4.md)**
   * **Tools:** Windows CMD
   * **Focus:** Inspecting active processes and user contexts (`tasklist /v`), mapping core binaries to Windows services (`/svc`), and filtering processes using `findstr` and PID criteria (`/fi`).
+* **[Windows Network Reconnaissance & Port-to-Process Correlation](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-5.md)**
+  * **Tools:** Windows CMD
+  * **Focus:** Inspecting network configurations (`ipconfig /all`) and routing tables (`route print`), auditing listening sockets with `netstat -ano`, and correlating active PIDs directly to services using `tasklist /svc`.
 
 ---
 
