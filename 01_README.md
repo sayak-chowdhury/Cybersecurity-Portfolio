@@ -110,6 +110,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Windows Network Reconnaissance & Port-to-Process Correlation](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-5.md)**
   * **Tools:** Windows CMD
   * **Focus:** Inspecting network configurations (`ipconfig /all`) and routing tables (`route print`), auditing listening sockets with `netstat -ano`, and correlating active PIDs directly to services using `tasklist /svc`.
+* **[Windows Network Connectivity Testing & DNS Enumeration](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-6.md)**
+  * **Tools:** Windows CMD
+  * **Focus:** Assessing host reachability and MTU fragmentation limits using `ping`, and performing forward, MX, and NS record queries via interactive and non-interactive `nslookup`.
 
 ---
 
