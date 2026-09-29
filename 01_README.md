@@ -113,6 +113,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Windows Network Connectivity Testing & DNS Enumeration](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-6.md)**
   * **Tools:** Windows CMD
   * **Focus:** Assessing host reachability and MTU fragmentation limits using `ping`, and performing forward, MX, and NS record queries via interactive and non-interactive `nslookup`.
+* **[Windows Service Management & Configuration Auditing](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-7.md)**
+  * **Tools:** Windows CMD
+  * **Focus:** Querying service states and configurations (`sc query`, `sc qc`), inspecting running services (`net start`), managing lifecycle controls (`net stop`/`start`), and filtering outputs with `findstr`.
 
 ---
 
