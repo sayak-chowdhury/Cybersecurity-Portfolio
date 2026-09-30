@@ -116,6 +116,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Windows Service Management & Configuration Auditing](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-7.md)**
   * **Tools:** Windows CMD
   * **Focus:** Querying service states and configurations (`sc query`, `sc qc`), inspecting running services (`net start`), managing lifecycle controls (`net stop`/`start`), and filtering outputs with `findstr`.
+* **[Windows Text Searching & Log Analysis (`findstr` & `find`)](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-8.md)**
+  * **Tools:** Windows CMD
+  * **Focus:** Performing exact and case-insensitive string filtering, executing recursive log searches across directories (`findstr /s /i`), and aggregating match metrics via command piping and the `find` utility.
 
 ---
 
