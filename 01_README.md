@@ -119,6 +119,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Windows Text Searching & Log Analysis (`findstr` & `find`)](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-8.md)**
   * **Tools:** Windows CMD
   * **Focus:** Performing exact and case-insensitive string filtering, executing recursive log searches across directories (`findstr /s /i`), and aggregating match metrics via command piping and the `find` utility.
+* **[Windows CLI I/O Redirection & Error Stream Handling](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-9.md)**
+  * **Tools:** Windows CMD
+  * **Focus:** Demonstrating stdout overwriting/appending (`>`, `>>`), stdin redirection (`<`), command piping (`|`), and stderr stream logging (`2>`, `2>>`).
 
 ---
 
