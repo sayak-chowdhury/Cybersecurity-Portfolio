@@ -122,6 +122,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Windows CLI I/O Redirection & Error Stream Handling](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-9.md)**
   * **Tools:** Windows CMD
   * **Focus:** Demonstrating stdout overwriting/appending (`>`, `>>`), stdin redirection (`<`), command piping (`|`), and stderr stream logging (`2>`, `2>>`).
+* **[Automated Windows Reconnaissance Batch Script](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-10)**
+  * **Tools:** Windows Batch / CMD
+  * **Focus:** Automating host discovery (`whoami`, `hostname`), network interface checks (`ipconfig`), and active process enumeration (`tasklist`) via a native `.bat` script.
 
 ---
 
