@@ -125,6 +125,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Automated Windows Reconnaissance Batch Script](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-10)**
   * **Tools:** Windows Batch / CMD
   * **Focus:** Automating host discovery (`whoami`, `hostname`), network interface checks (`ipconfig`), and active process enumeration (`tasklist`) via a native `.bat` script.
+* **[Dynamic Parameterization in Windows Batch Scripting](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-11)**
+  * **Tools:** Windows Batch / CMD
+  * **Focus:** Transitioning from hardcoded script variables to dynamic positional parameters (`%1`) and evaluating missing argument error handling during network connectivity tests.
 
 ---
 
