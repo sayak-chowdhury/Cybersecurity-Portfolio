@@ -128,6 +128,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Dynamic Parameterization in Windows Batch Scripting](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-11)**
   * **Tools:** Windows Batch / CMD
   * **Focus:** Transitioning from hardcoded script variables to dynamic positional parameters (`%1`) and evaluating missing argument error handling during network connectivity tests.
+* **[Automated Host Availability & Exit Code Evaluation](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-12)**
+  * **Tools:** Windows Batch / CMD
+  * **Focus:** Performing automated host discovery, stream redirection (`> nul 2>&1`), and evaluating network connectivity state (`UP`/`DOWN`) via `%errorlevel%` conditional branching.
 
 ---
 
