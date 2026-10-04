@@ -131,6 +131,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Automated Host Availability & Exit Code Evaluation](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-12)**
   * **Tools:** Windows Batch / CMD
   * **Focus:** Performing automated host discovery, stream redirection (`> nul 2>&1`), and evaluating network connectivity state (`UP`/`DOWN`) via `%errorlevel%` conditional branching.
+* **[Multi-Target Availability Checks via FOR Loops](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-13)**
+  * **Tools:** Windows Batch / CMD
+  * **Focus:** Parsing target files using `FOR /F` loops, leveraging delayed variable expansion (`setlocal enabledelayedexpansion`), and evaluating execution return codes (`!errorlevel!`) for batch host discovery.
 
 ---
 
