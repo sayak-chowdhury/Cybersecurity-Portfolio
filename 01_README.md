@@ -134,6 +134,9 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
 * **[Multi-Target Availability Checks via FOR Loops](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-13)**
   * **Tools:** Windows Batch / CMD
   * **Focus:** Parsing target files using `FOR /F` loops, leveraging delayed variable expansion (`setlocal enabledelayedexpansion`), and evaluating execution return codes (`!errorlevel!`) for batch host discovery.
+* **[Automated Reconnaissance Scheduling via Task Scheduler (`schtasks`)](./04_Playground/Windows-Command-Prompt/CMD-Pentesting-Practice-Phase-14)**
+  * **Tools:** Windows Batch / CMD, schtasks, PowerShell
+  * **Focus:** Automating host discovery telemetry collection into timestamped reports and configuring daily automated execution routines using Windows Task Scheduler (`schtasks`).
 
 ---
 
