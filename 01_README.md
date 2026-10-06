@@ -29,6 +29,11 @@ Welcome to my portfolio! This repository tracks my practical journey into networ
    * **Tools:** Wireshark
    * **Focus:** Analyzing DNS-over-TCP, TLS 1.3 Middlebox Compatibility, JA3/JA4 fingerprinting, and TCP retransmission mechanics across a complete session lifecycle.
 
+### Batch-Scripting
+* **[Automated Host Reconnaissance & Audit Archiving Toolkit](./03_Mini-Labs/Batch-scripting)**
+  * **Tools:** Windows Batch / CMD
+  * **Focus:** Developing an interactive menu-driven audit framework for host, account, network, process, and service enumeration, including automated timestamped reporting and ZIP archiving.
+
 
 ---
 
